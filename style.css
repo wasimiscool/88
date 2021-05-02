@@ -1,0 +1,36 @@
+body {
+	background-image: url("images/avenger_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    margin-top: 30px;
+	border-width:10px;
+	background-color: white; 
+	border-style:ridge;
+
+	background-repeat: no-repeat;
+}
+
+h1,h4 {
+	color: white !important;
+}
+
+.blueDiv {
+	background-color: lightblue;
+	text-align: center;
+	display: block;
+	height: 20px;
+ 	width: 20%;
+	border-radius: 25px;
+}
+
+.redDiv {
+	background-color: red;
+	text-align: center;
+	display: block;
+	height: 20px;
+ 	width: 40%;
+	border-radius: 25px;
+}
